@@ -1,15 +1,15 @@
 [{
 	"name": "小雅网盘",
-	"server": "http://alist.xiaoya.pro/",
+	"server": "http://192.168.100.1:5244/",
 	"startPage": "/",
 	"showAll": false,
 	"search": true,
 	"params": {
 		"/abc": {
-			"password": "123"
+			"password": "admin"
 		},
 		"/abc/abc": {
-			"password": "123"
+			"password": "admin"
 		}
 	}
 }]
